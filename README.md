@@ -61,7 +61,7 @@ Take the contract address of the one you just deployed and add it to the file `c
 
 2. Run:
 ```
-$ git clone 
+$ git clone https://github.com/jnealew/full-stack-fund-me.git
 $ yarn
 $ yarn http-server
 ```
