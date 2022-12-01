@@ -30,7 +30,7 @@ If you don't want to, just skip.
 
 1. Clone the repo 
 ```
-$ git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
+$ git clone https://github.com/jnealew/hardhat-fund-me
 $ cd hardhat-fund-me-fcc
 $ yarn
 ```  
@@ -71,8 +71,3 @@ $ yarn http-server
 You should see a small button that says "connect".  
 
 Connect your Metamask and you're ready to go!
-# full-stack-fund-me
-# full-stack-fund-me
-# full-stack-fund-me
-# full-stack-fund-me
-# full-stack-fund-me
