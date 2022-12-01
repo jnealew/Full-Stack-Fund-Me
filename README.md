@@ -15,7 +15,7 @@ This is the front end of the application. Its simple, but it works. My focus for
 
 The back-end of this applicaiton has already been deployed on the Goerli test network.  
 To view the deployed contract, the address is: `0x4F3629E21D3685DdF15eE34f6894Ab2A69773729`   
-You can view it on the Goerli Etherscan here: Go on over to the front end to being interacting via a minial GUI. [Goereli Test Network](https://goerli.etherscan.io/address/0x4F3629E21D3685DdF15eE34f6894Ab2A69773729)
+You can view it on the Goerli Etherscan here: [Goereli Test Network](https://goerli.etherscan.io/address/0x4F3629E21D3685DdF15eE34f6894Ab2A69773729)
 
 This address is already coded into the front end, so that you can quickly deploy this file and interact with the contract. 
 
